@@ -4,6 +4,8 @@
 
 **[官方网站](http://rb.vanyi.top:10930/)**
 
+[electron 客户端](https://github.com/Vanyi0924/music-client-electron)
+
 <div>
   <img src="./assets/imgs/screenshot-computer-1.png" alt="electron客户端">
 </div>

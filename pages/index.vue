@@ -10,6 +10,12 @@
           <img src="/logo.svg" width="24" alt="律动音乐" />
         </div>
         <span class="ml-2 text-2xl">律动音乐</span>
+        <a
+          href="https://github.com/Vanyi0924/music-official-website"
+          class="ml-2"
+        >
+          <GithubIcon width="20" />
+        </a>
       </nav>
     </header>
     <section
@@ -61,6 +67,7 @@ import AndroidFilledIcon from "@/assets/icons/vue/AndroidFilled.vue";
 import AppleIcon from "@/assets/icons/vue/Apple.vue";
 import DesktopMac20FilledIcon from "@/assets/icons/vue/DesktopMac20Filled.vue";
 import LogoWindowsIcon from "@/assets/icons/vue/LogoWindows.vue";
+import GithubIcon from "@/assets/icons/vue/Github.vue";
 import AppInfo from "~/public/app-info.json";
 </script>
 
