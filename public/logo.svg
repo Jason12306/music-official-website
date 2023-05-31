@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="335.007" height="460.002"
+  viewBox="0 0 335.007 460.002">
+  <g fill="none" fill-rule="evenodd" transform="translate(0 25.002)">
+    <path fill="#00DC82" fill-rule="nonzero"
+      d="M50,421.60254 C80.9401075,439.46582 119.059893,439.46582 150,421.60254 C180.940108,403.739261 200,370.726559 200,335 C200,299.273441 180.940108,266.260739 150,248.39746 C119.059893,230.53418 80.9401075,230.53418 50,248.39746 C19.0598917,266.260739 0,299.273441 0,335 C0,370.726559 19.0598917,403.739261 50,421.60254 Z" />
+    <line x1="211.5" x2="310" y1=".5" y2="35" stroke="#00DC82" stroke-linecap="round"
+      stroke-linejoin="round" stroke-width="50" />
+    <line x1="211" x2="175" y2="344" stroke="#00DC82" stroke-linecap="round" stroke-width="50" />
+  </g>
+</svg>
