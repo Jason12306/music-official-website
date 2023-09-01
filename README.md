@@ -6,9 +6,17 @@
 
 [electron 客户端](https://github.com/Vanyi0924/music-client-electron)
 
+## 桌面端
+
 <div>
-  <img src="./assets/imgs/screenshot-computer-1.png" alt="electron客户端">
+  <img src="./screenshots/client1.png" alt="律动音乐electron客户端">
 </div>
+
+## App
+
 <div>
-  <img src="./assets/imgs/screenshot-phone-1.png" alt="reactnative移动端" width="250">
+  <img src="./screenshots/app1.jpeg" alt="律动音乐reactnative移动端-播放页" width="375">
+  <img src="./screenshots/app2.jpeg" alt="律动音乐reactnative移动端-歌词页" width="375">
+  <img src="./screenshots/app3.jpeg" alt="律动音乐reactnative移动端-歌单页" width="375">
+  <img src="./screenshots/app4.jpeg" alt="律动音乐reactnative移动端-搜索页" width="375">
 </div>
