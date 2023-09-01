@@ -7,7 +7,7 @@
         <div
           class="w-[50px] h-[50px] bg-white rounded-xl flex justify-center items-center"
         >
-          <img src="/logo.svg" width="24" alt="律动音乐" />
+          <img src="/logo.svg" width="80" alt="律动音乐" />
         </div>
         <span class="ml-2 text-2xl">律动音乐</span>
         <a
@@ -46,15 +46,11 @@
           </a>
         </div>
       </div>
-      <div class="hidden lg:block flex-auto relative">
+      <div class="lg:block flex-auto relative h-[650px]">
+        <img class="absolute" src="/screenshots/client1.png" alt="" />
         <img
-          class="block rounded-xl w-[95%] shadow-2xl"
-          src="@/assets/imgs/screenshot-computer-1.png"
-          alt=""
-        />
-        <img
-          class="absolute right-0 -bottom-10 rounded-xl w-1/3 shadow-2xl"
-          src="@/assets/imgs/screenshot-phone-1.png"
+          class="absolute w-[300px] -right-24 top-14 rounded-lg"
+          src="/screenshots/app1.png"
           alt=""
         />
       </div>
